@@ -1,0 +1,8 @@
+PyQt6>=6.4.0
+pefile>=2023.2.7
+capstone>=4.0.2
+keystone-engine>=0.9.2
+unicorn>=2.0.1
+psutil>=5.9.5
+pyelftools>=0.29
+structlog>=23.1.0 
