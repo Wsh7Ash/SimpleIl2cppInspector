@@ -1,4 +1,4 @@
-# Ultimate IL2CPP Inspector
+# SIMPLE IL2CPP Inspector
 
 A powerful and versatile IL2CPP inspector that works across different game engines and platforms.
 
